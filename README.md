@@ -1,6 +1,6 @@
 # Binary trees
 
-## Dinary tree
+## Binary tree
 
 ## Difference between a binary tree and a Binary Search Tree
 
